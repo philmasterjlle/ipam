@@ -1,3 +1,14 @@
+Para executar no container  digite " git clone"
+Depois utilizar o " docker-compose up -d "
+
+
+
+
+
+
+
+
+
 docker-phpipam
 --------------
 
